@@ -1,0 +1,54 @@
+body{
+  background:url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/nature-quotes-1557340276.jpg?crop=0.666xw:1.00xh;0.168xw,0&resize=640:)
+  background-repeat:no-repeat;
+}
+
+h1{
+  font-family:courier,monospace;
+  font-color:black;
+  border: 20px ridge blue;
+  border-radius: 5px;
+}
+
+h2{
+  font-family:courier,monospace;
+  font-color:black;
+  border: 20px ridge blue;
+  border-radius: 5px;
+}
+
+p{
+  font-family:courier,monospace;
+  font-color:black;
+  border: 20px ridge blue;
+  border-radius: 5px;
+}
+
+table{
+ border:2px solid black;
+}
+
+th{
+ border:1px solid black;
+ background-color:lightgray;
+}
+
+td{
+ border:1px solid black;
+}
+
+img{
+   border: 20px ridge blue;
+   border-radius: 5px;
+   width:50%;
+   length:50%;
+}
+
+#hobby{
+  font-family:courier;
+}
+
+.Coding{
+  border: 10px ridge blue;
+  border-radius:5px;
+}
